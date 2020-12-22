@@ -1,2 +1,2 @@
 # web-twitter
-web support for Twitter (twitter.com)
+`web` support for Twitter (twitter.com)
